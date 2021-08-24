@@ -1,0 +1,36 @@
+body {
+    background-color: #151515;
+    color: hsla(29, 100%, 52%, 0.794);
+    font-family: 'IBM Plex Mono', monospace;
+    text-align: center;
+}
+.main {
+    margin: 0 auto 0 auto;
+    width: 270px;
+    height: 270px;
+    float: none;
+}
+h1 {
+    color: white;
+    width: 180px;
+    margin: 0 auto;
+}
+h2 {
+    font-size: 30px;
+    color: white;
+}
+h3 {
+    font-size: 30px;
+    color: white;
+}
+
+img {
+    width: 80px;
+    height: 80px;
+}
+.contact {
+    width: 270px;
+    height: 270px;
+    margin: 0 auto 0 auto;
+    text-align: left;
+}
